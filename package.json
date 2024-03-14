@@ -1,6 +1,6 @@
 {
-  "name": "summate-bisset",
-  "version": "1.0.1",
+  "name": "summate-bisset1",
+  "version": "1.0.0",
   "description": "Summate is a versatile JavaScript library for summation tasks. With its intuitive interface and robust features, Summate simplifies the process of computing sums, enabling you to aggregate numeric values and perform mathematical operations with ease. Whether you're adding up arrays of numbers, summing dynamically generated data, or performing complex calculations, Summate provides a reliable solution for your summation needs.",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
     "are-arrays": "^1.0.0",
     "are-objects": "^1.0.0",
     "summate-bisset": "^1.0.0",
+    "summate-bisset1": "^1.0.0",
     "total_compute": "^1.0.0",
     "upgraded-guide-su": "^1.0.0",
     "axios": "^0.24.0",
@@ -21,9 +22,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BissetHerling453/summate-bisset.git"
+    "url": "https://github.com/BissetHerling453/summate-bisset1.git"
   },
-  "homepage": "https://github.com/BissetHerling453/summate-bisset/blob/main/README.md",
+  "homepage": "https://github.com/BissetHerling453/summate-bisset1/blob/main/README.md",
   "keywords": [
     "sum",
     "add",
